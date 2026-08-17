@@ -1,6 +1,6 @@
 # 🎓 C++ Grade Checker
 
-A simple beginner-friendly C++ program that checks a student's marks and displays their grade using if-else statements.
+A simple C++ program that checks a student's marks and displays their grade using if-else statements.
 
 ## 📊 Grading System
 
